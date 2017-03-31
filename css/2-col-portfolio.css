@@ -1,7 +1,7 @@
 /*!
- * Start Bootstrap - 2 Col Portfolio (http://startbootstrap.com/)
+ * Start Bootstrap - 2 Col Portfolio v4.0.0-alpha (http://startbootstrap.com/template-overviews/2-col-portfolio)
  * Copyright 2013-2017 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-2-col-portfolio/blob/master/LICENSE)
  */
 
 body {
@@ -15,9 +15,9 @@ body {
 }
 
 .portfolio-item {
-	margin-bottom: 30px;
+    margin-bottom: 30px;
 }
 
 .pagination {
-	margin-bottom: 30px;
+    margin-bottom: 30px;
 }
