@@ -3,6 +3,7 @@
 [2 Col Portfolio](https://startbootstrap.com/template-overviews/2-col-portfolio/) is a two column portfolio layout template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
 ## Preview
+
 [![2 Col Portfolio Preview](https://startbootstrap.com/assets/img/templates/2-col-portfolio.jpg)](https://blackrockdigital.github.io/startbootstrap-2-col-portfolio/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-2-col-portfolio/)**
